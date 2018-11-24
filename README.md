@@ -1,8 +1,8 @@
 # SintolRTOS
 |----------------------------------------------------------------------------------------------------------|
-
-|                                         Welcome to SintolRTOS                                            |
-|                                      It's created by wangjingyi                                          |\r\n\
+|                                                                                                          |
+|****************************************** Welcome to SintolRTOS *****************************************|
+|****************************************** It's created by wangjingyi ************************************|
 |                                      Email:langkexiaoyi@gmail.com                                        |\r\n\ 
 |                                          Wechat:18513285865                                              |\r\n\ 
 |                        It can help you create large-scale distributed computing                          |\r\n\ 
